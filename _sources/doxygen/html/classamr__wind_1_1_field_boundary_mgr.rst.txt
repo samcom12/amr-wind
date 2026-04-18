@@ -1,0 +1,14 @@
+.. meta::7d79a4b4f568b8f9be28705e81bd71a7c41072624c58ecb1fc80121a2aa25a986491d1b0f06e86462fd30c4cf82f7a944d2c69e175a32dfd4158d888dfe50ff5
+
+:orphan:
+
+.. title:: AMR-Wind API: amr_wind::FieldBoundaryMgr Class Reference
+
+FieldBoundaryMgr Class Reference
+================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: classamr__wind_1_1_field_boundary_mgr.html

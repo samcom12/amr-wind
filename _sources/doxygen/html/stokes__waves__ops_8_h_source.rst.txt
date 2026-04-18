@@ -1,0 +1,14 @@
+.. meta::b3d1c87247df9d606a3b75179523bdae2b125b7fdd394e74a54e75f631757cefd6d5a6fc02c9d1f047580c968880974dad00539139265c12771a57087c703e14
+
+:orphan:
+
+.. title:: AMR-Wind API: /home/runner/work/amr-wind/amr-wind/amr-wind/ocean_waves/relaxation_zones/stokes_waves_ops.H Source File
+
+/home/runner/work/amr-wind/amr-wind/amr-wind/ocean\_waves/relaxation\_zones/stokes\_waves\_ops.H Source File
+============================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: stokes__waves__ops_8_h_source.html

@@ -1,0 +1,14 @@
+.. meta::bbfb049a90272a801534480bfeca6da08a78a0ed5c69ad59df89afac35f84716429fc4af3cfa7effd9cbdc1dadd911fb5a82191d53e4f95c7a5bd66698dc81fc
+
+:orphan:
+
+.. title:: AMR-Wind API: /home/runner/work/amr-wind/amr-wind/amr-wind/turbulence/LES/Smagorinsky.H Source File
+
+/home/runner/work/amr-wind/amr-wind/amr-wind/turbulence/LES/Smagorinsky.H Source File
+=====================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: _smagorinsky_8_h_source.html

@@ -1,0 +1,14 @@
+.. meta::ca9dbc54796606329b3842572f86460001e69380c19dc8de2ed496ad2836c620b0188691edf1d8651830deeb93f322d3282fa5fef02d7d90d46935158ca30b5b
+
+:orphan:
+
+.. title:: AMR-Wind API: amr_wind::PlaneFillInflow Class Reference
+
+PlaneFillInflow Class Reference
+===============================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: classamr__wind_1_1_plane_fill_inflow.html

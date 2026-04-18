@@ -1,0 +1,14 @@
+.. meta::c235b7a7afb16b2cdb2a62efe08f41b757e9397586236a03acb33f3645fc533dca2a29e15993ce287ae7b31b8f376dca4a1a22520a9e193380b44c0082b7d4a9
+
+:orphan:
+
+.. title:: AMR-Wind API: /home/runner/work/amr-wind/amr-wind/amr-wind/utilities/tagging/FieldRefinement.H Source File
+
+/home/runner/work/amr-wind/amr-wind/amr-wind/utilities/tagging/FieldRefinement.H Source File
+============================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: _field_refinement_8_h_source.html

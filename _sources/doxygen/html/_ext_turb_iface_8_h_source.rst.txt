@@ -1,0 +1,14 @@
+.. meta::73813ad572ce3cb3d1368d07cc299115144fd34cc3ae85c024e1b880f8929a273d56ac7630dcce2f84b0660a04c3515f9e3f20f65c5a1be73e25f042380ae00a
+
+:orphan:
+
+.. title:: AMR-Wind API: /home/runner/work/amr-wind/amr-wind/amr-wind/wind_energy/actuator/turbine/external/ExtTurbIface.H Source File
+
+/home/runner/work/amr-wind/amr-wind/amr-wind/wind\_energy/actuator/turbine/external/ExtTurbIface.H Source File
+==============================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: _ext_turb_iface_8_h_source.html

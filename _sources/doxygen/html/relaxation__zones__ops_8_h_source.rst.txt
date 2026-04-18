@@ -1,0 +1,14 @@
+.. meta::26f2c160ed27e1c8331a6baa7f433861e2244ba4b7e377f53187c2879bbdf7b287302959fb29dc0dbe6418d6b8e27a120c94690c8416783f8d06c4137dd7990d
+
+:orphan:
+
+.. title:: AMR-Wind API: /home/runner/work/amr-wind/amr-wind/amr-wind/ocean_waves/relaxation_zones/relaxation_zones_ops.H Source File
+
+/home/runner/work/amr-wind/amr-wind/amr-wind/ocean\_waves/relaxation\_zones/relaxation\_zones\_ops.H Source File
+================================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: relaxation__zones__ops_8_h_source.html

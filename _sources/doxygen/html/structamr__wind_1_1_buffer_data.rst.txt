@@ -1,0 +1,14 @@
+.. meta::17ed17924c35cf77f3ef8544b600a3fe43ace55ec794e9ae9e3af8522cc28a2c85399768465e24e37a0092c846242b58be51b7899e3f4ec75ab18ecd52328d8e
+
+:orphan:
+
+.. title:: AMR-Wind API: amr_wind::BufferData Struct Reference
+
+BufferData Struct Reference
+===========================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: structamr__wind_1_1_buffer_data.html

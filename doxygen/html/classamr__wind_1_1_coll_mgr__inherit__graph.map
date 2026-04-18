@@ -1,0 +1,19 @@
+<map id="amr_wind::CollMgr&lt; Collection, Type, allow_duplicates &gt;" name="amr_wind::CollMgr&lt; Collection, Type, allow_duplicates &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,177,158"/>
+<area shape="rect" id="Node000002" href="$classamr__wind_1_1_coll_mgr.html" title=" " alt="" coords="452,9,651,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,93,166,73,200,57,264,40,330,30,394,24,452,23,452,28,394,30,331,35,265,45,202,63,169,78,138,97"/>
+<area shape="rect" id="Node000004" href="$classamr__wind_1_1_coll_mgr.html" title=" " alt="" coords="421,73,681,113"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,120,421,101,421,107,191,125"/>
+<area shape="rect" id="Node000006" href="$classamr__wind_1_1_coll_mgr.html" title=" " alt="" coords="465,137,637,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="191,152,202,153,340,162,465,160,465,165,340,167,201,159,191,157"/>
+<area shape="rect" id="Node000008" href="$classamr__wind_1_1_coll_mgr.html" title=" " alt="" coords="472,201,631,241"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="143,163,172,179,202,191,272,208,344,217,412,221,472,222,472,227,412,227,343,223,271,213,201,196,169,183,140,167"/>
+<area shape="rect" id="Node000003" href="$classamr__wind_1_1_ext_solver_mgr.html" title=" " alt="" coords="746,17,927,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="664,27,746,27,746,32,664,32"/>
+<area shape="rect" id="Node000005" href="$classamr__wind_1_1_field_boundary_mgr.html" title=" " alt="" coords="731,81,943,106"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="695,91,730,91,730,96,695,96"/>
+<area shape="rect" id="Node000007" href="$classamr__wind_1_1_physics_mgr.html" title=" " alt="" coords="753,145,921,170"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="651,155,753,155,753,160,651,160"/>
+<area shape="rect" id="Node000009" href="$classamr__wind_1_1pde_1_1_p_d_e_mgr.html" title=" " alt="" coords="748,209,925,234"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="644,219,748,219,748,224,644,224"/>
+</map>

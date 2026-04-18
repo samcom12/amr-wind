@@ -1,0 +1,7 @@
+<map id="amr_wind::FieldBoundaryMgr" name="amr_wind::FieldBoundaryMgr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,240,241,265"/>
+<area shape="rect" id="Node000002" href="$classamr__wind_1_1_coll_mgr.html" title=" " alt="" coords="5,151,265,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,204,138,240,133,240,133,204"/>
+<area shape="rect" id="Node000003" href="$classamr__wind_1_1_coll_mgr.html" title=" " alt="" coords="49,5,221,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,74,138,150,133,150,133,74"/>
+</map>

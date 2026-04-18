@@ -1,0 +1,14 @@
+.. meta::55c4002bcf0f67686d9e4a9324fa28b956317d35885d158686d664a256f6cd52aa5c0c2fe86e313f7dcaa1b7a62fae2e94fec60d80eb8ea3e1eb550147790725
+
+:orphan:
+
+.. title:: AMR-Wind API: /home/runner/work/amr-wind/amr-wind/amr-wind/utilities/tagging/GradientMagRefinement.H Source File
+
+/home/runner/work/amr-wind/amr-wind/amr-wind/utilities/tagging/GradientMagRefinement.H Source File
+==================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: _gradient_mag_refinement_8_h_source.html

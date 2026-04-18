@@ -1,0 +1,14 @@
+.. meta::8b3ccc6a71611aa97a3bf4e0cdc21e88d398002285a740d910c6007fd0e3d1cb60304a5a9e2bb8db6ddd100f2c1dd9807b2525b710ab86187523ed3ed4f78b94
+
+:orphan:
+
+.. title:: AMR-Wind API: /home/runner/work/amr-wind/amr-wind/amr-wind/turbulence/RANS/KOmegaSSTIDDES.H Source File
+
+/home/runner/work/amr-wind/amr-wind/amr-wind/turbulence/RANS/KOmegaSSTIDDES.H Source File
+=========================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: _k_omega_s_s_t_i_d_d_e_s_8_h_source.html

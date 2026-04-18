@@ -1,0 +1,14 @@
+.. meta::8c8ef0d6d56a0c6411764bb085fdd3a74ca41b3d685e094077aac9cf065f51e5705c2a843e4e4897fb8a999d427060a62d99ca5d1ab95358db66ff6fe99398e8
+
+:orphan:
+
+.. title:: AMR-Wind API: /home/runner/work/amr-wind/amr-wind/amr-wind/utilities/tagging/CurvatureRefinement.H Source File
+
+/home/runner/work/amr-wind/amr-wind/amr-wind/utilities/tagging/CurvatureRefinement.H Source File
+================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: _curvature_refinement_8_h_source.html

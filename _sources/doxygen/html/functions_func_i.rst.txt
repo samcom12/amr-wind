@@ -1,0 +1,14 @@
+.. meta::ccc0b53b24201b8e41ed98a616cbdcebe96685bcdf5af28c1e82d23e134b84a9c1cc21fa707a23396f547e2a0c658f46c5d4c9ce3846d5223a690dc8aeae6713
+
+:orphan:
+
+.. title:: AMR-Wind API: Class Members - Functions
+
+Class Members - Functions
+=========================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: functions_func_i.html

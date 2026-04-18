@@ -1,0 +1,14 @@
+.. meta::bc71ea2598f3a2487250452a53638f2797a8d94d8161d4bf70c06fb32b8dc542c9c5e285d6df271b6081ec7eaff2fb628e8c3bbee08eaeb2b67ce7f3af773185
+
+:orphan:
+
+.. title:: AMR-Wind API: /home/runner/work/amr-wind/amr-wind/amr-wind/boundary_conditions -&gt; core Relation
+
+/home/runner/work/amr-wind/amr-wind/amr-wind/boundary\_conditions -&gt; core Relation
+=====================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: dir_000007_000009.html

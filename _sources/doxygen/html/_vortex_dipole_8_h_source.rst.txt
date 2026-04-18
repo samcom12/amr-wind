@@ -1,0 +1,14 @@
+.. meta::c51bc083220fb4e79eac7c40c789e04d8b66d009e7b868b6dad347060fac5344238cec5cba0c97d3dbab7b091fc5530a248f9fe95dd0696c86dc88d56951d1a6
+
+:orphan:
+
+.. title:: AMR-Wind API: /home/runner/work/amr-wind/amr-wind/amr-wind/physics/VortexDipole.H Source File
+
+/home/runner/work/amr-wind/amr-wind/amr-wind/physics/VortexDipole.H Source File
+===============================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: _vortex_dipole_8_h_source.html

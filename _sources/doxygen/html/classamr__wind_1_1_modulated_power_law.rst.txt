@@ -1,0 +1,14 @@
+.. meta::4691382c1c688af4e947b61ca7d1edaa1a0bf33e81232db0d63e7565106f0a7094af70ac3585467db19a7dd39ea4de6afbccfabb7580ab67e9ecea19148f9aba
+
+:orphan:
+
+.. title:: AMR-Wind API: amr_wind::ModulatedPowerLaw Class Reference
+
+ModulatedPowerLaw Class Reference
+=================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: classamr__wind_1_1_modulated_power_law.html
